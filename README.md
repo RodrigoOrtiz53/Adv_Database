@@ -1,4 +1,3 @@
-# Adv_Database
 # Notice
 The database and the functionality has been hosted locally during time of presentation; live interactiion is not the intention of this project. 
 
