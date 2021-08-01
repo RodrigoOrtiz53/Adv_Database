@@ -1,0 +1,64 @@
+ employee_id | f_name | l_name  
+-------------+--------+---------
+          33 | Sorgle | Flinden
+(1 row)
+
+ employee_id | f_name  | l_name 
+-------------+---------+--------
+          11 | Tanalan | Maifan
+(1 row)
+
+ s_id |    s_name     
+------+---------------
+    1 | Lopez Foods
+    4 | Groupe Danone
+   15 | 100KM Foods
+(3 rows)
+
+ client_id |  f_name  
+-----------+----------
+         2 | Bonnie
+         3 | Jasmin
+         3 | Jasmin
+         4 | Nensen
+         6 | Seymour
+         7 | Benonee
+         7 | Benonee
+         9 | Lunahei
+        10 | Shendin
+        11 | Beverley
+        15 | John
+(11 rows)
+
+ employee_id | f_name  | l_name 
+-------------+---------+--------
+           3 | Stolie  | Curtis
+          35 | Nonelon | Stayie
+(2 rows)
+
+ employee_id | f_name | l_name  
+-------------+--------+---------
+           1 | John   | Doe
+          33 | Sorgle | Flinden
+(2 rows)
+
+ s_id |     s_name     | product_name 
+------+----------------+--------------
+    3 | Gavina Gourmet | Honey Ham
+(1 row)
+
+ product_id | product_name | sale_price 
+------------+--------------+------------
+         13 | Baby Carrots |       4.99
+(1 row)
+
+ employee_id | f_name  | l_name  
+-------------+---------+---------
+          15 | Spandan | Sonalan
+(1 row)
+
+ product_id | product_name | min  
+------------+--------------+------
+         13 | Baby Carrots | 4.99
+(1 row)
+
